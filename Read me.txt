@@ -1,0 +1,39 @@
+The project was completed in a week on June First week 2023
+
+
+🚀 Project Showcase: Sentiment Analyzer with Streamlit and OpenAI
+
+I'm excited to share a small project I recently worked on, where I built a Sentiment Analyzer using Streamlit, OpenAI, and deployed it successfully on two platforms: Google Colab and localhost. Let me walk you through the details!
+Project Overview: The aim of this project was to develop a sentiment analyzer that identifies and returns the sentiment (positive or negative) in a given text. The core technologies I used were Streamlit, a Python library for building interactive web applications, and OpenAI, a powerful AI language model.
+
+Technologies Used:
+
+1.	Streamlit: I chose Streamlit because of its simplicity and ability to rapidly build and deploy web applications. It allowed me to create an intuitive user interface for the sentiment analyzer, making it easy for users to interact with.
+2.	OpenAI API: To perform sentiment analysis, I leveraged the OpenAI API. OpenAI's language models have been trained on a vast amount of data, enabling them to generate accurate and insightful responses.
+3.	Visual Studio Code (VS Code): I used VS Code as my preferred integrated development environment (IDE) to write and manage the project code. It provided a seamless coding experience with useful features and extensions.
+Project Workflow:
+1.	Data Collection: I collected a dataset of textual samples with both positive and negative sentiments. This dataset served as the training data for the sentiment analyzer.
+2.	Model Training: Leveraging the power of OpenAI's API, I trained a sentiment analysis model using the collected dataset. The model learned to identify sentiment patterns in text.
+3.	Streamlit App Development: Using Streamlit, I built a user-friendly web application that allows users to input text and receive sentiment analysis results. The app presented a clean and intuitive interface for a smooth user experience.
+4.	Integration with OpenAI: The Streamlit app interacted with the OpenAI API to process the user's input and generate sentiment analysis results. This integration enabled real-time sentiment analysis with accurate predictions.
+
+Deployment: I successfully deployed the sentiment analyzer project on two platforms:
+
+1.	Google Colab: By utilizing the power of Google Colab's cloud infrastructure, I deployed the Streamlit app on Colab, making it accessible to users online. Users could access the app through a web browser and perform sentiment analysis effortlessly.
+2.	Localhost: Additionally, I deployed the project on a local machine using the localhost environment. This allowed me to run the app locally, making it accessible on the local network. Users could access the sentiment analyzer by navigating to a specified address in their web browser.
+
+Conclusion: 
+By combining the simplicity of Streamlit, the advanced capabilities of OpenAI, and the flexibility of Visual Studio Code, I successfully developed and deployed a sentiment analyzer project. The integration of AI and web technologies made it possible to create a user-friendly sentiment analysis tool, empowering users to gain valuable insights from their text data.
+Feel free to try out the sentiment analyzer yourself by accessing the deployed app on Google Colab or running it locally on your machine. Happy analyzing!
+#Streamlit #OpenAI #SentimentAnalysis #Python #WebDevelopment #Deployment
+
+
+
+Requirements for local machine version:
+Need to install anaconda python on the local machine. 
+In the folder place config.ini which contains API. 
+Same folder python file with code
+
+Requirements for Colab Version:
+Save config.txt file with yours API on google drive and use codes provided in google colabs. 
+

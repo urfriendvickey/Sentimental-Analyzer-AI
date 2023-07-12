@@ -1,0 +1,2 @@
+[API_KEY]
+"sk-type yours API key here and remove the inverted quomas"
